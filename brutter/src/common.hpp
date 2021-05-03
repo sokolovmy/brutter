@@ -8,6 +8,9 @@
 #ifndef SRC_COMMON_HPP_
 #define SRC_COMMON_HPP_
 
+#include <string_view>
+#include <stdint.h>
+
 
 namespace brut {
 
